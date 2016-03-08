@@ -20,6 +20,10 @@ MES, CIM SOLUTIONS.
 -JSP  
 >
 
+### Career  
+***
+2016.03.02 Aim Systems 입사    
+
 ### Contact me  
 ***
 
