@@ -13,10 +13,10 @@ Thank you.
 ***
 MES, CIM SOLUTIONS.  
 >
--Spring Framework
--Java
--JavaScript
--JSP
+-Spring Framework  
+-Java  
+-JavaScript  
+-JSP  
 >
 
 ### Contact me
