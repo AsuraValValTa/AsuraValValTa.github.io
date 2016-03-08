@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Welcome
 permalink: /about/
 ---
+I am about to work as a Developer (2016/03/02). It will be grateful to write down what i\`ve done.  
+Thank you.
 
-Some information about you!
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+*FA(FACTORY AUTOMATION)*
+***
+MES, CIM SOLUTIONS.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dhj.kim6010@gmail.com](mailto:email@domain.com)
