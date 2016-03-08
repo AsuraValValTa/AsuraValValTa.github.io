@@ -9,15 +9,14 @@ Thank you.
 
 
 ### More Information
-*FA*(FACTORY AUTOMATION)
+*FA*(FACTORY AUTOMATION)  
 ***
 MES, CIM SOLUTIONS.  
 >
-cover
-*Spring Framework
-*Java
-*JavaScript
-*JSP
+-Spring Framework
+-Java
+-JavaScript
+-JSP
 >
 
 ### Contact me
